@@ -2,6 +2,10 @@
 primeiro repositório curso python
 
 
+
+
+
+
 import os
 
 palavra_secreta = 'Osasco'
